@@ -3,7 +3,7 @@
     <div class="flex flex-col items-center gap-6">
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5  ft">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex flex-col sm:flex-row w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/photosnap.svg" alt="">
@@ -40,7 +40,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5 ft">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/manage.svg" alt="">
@@ -76,7 +76,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/account.svg" alt="">
@@ -112,7 +112,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/myhome.svg" alt="">
@@ -146,7 +146,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/loop-studios.svg" alt="">
@@ -181,7 +181,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/faceit.svg" alt="">
@@ -215,7 +215,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/shortly.svg" alt="">
@@ -250,7 +250,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/insure.svg" alt="">
@@ -285,7 +285,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/eyecam-co.svg" alt="">
@@ -320,7 +320,7 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center flex-col sm:flex-row">
+            <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/the-air-filter-company.svg" alt="">
@@ -377,8 +377,5 @@ h4 {
     width: 1rem;
     border: 1px solid red;
 background-color: aqua;
-}
-@media screen and (max-width: 600px){
-
 }
 </style>
