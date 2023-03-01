@@ -3,8 +3,8 @@
     <div class="flex flex-col items-center gap-6">
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5  ft">
-            <div class="flex justify-between items-center sm:flex-row">
-                <div class="flex gap-4 ">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex flex-col sm:flex-row w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/photosnap.svg" alt="">
                     </div>
@@ -29,7 +29,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between  flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>Senior</p>
                     <p>HTML</p>
@@ -40,8 +40,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5 ft">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/manage.svg" alt="">
                     </div>
@@ -66,7 +66,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Fullstack</p>
                     <p>Midweight</p>
                     <p>Python</p>
@@ -76,8 +76,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/account.svg" alt="">
                     </div>
@@ -101,7 +101,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between gap-6 flex-wrap" style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>Junior</p>
                     <p>React</p>
@@ -112,8 +112,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/myhome.svg" alt="">
                     </div>
@@ -136,7 +136,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6 " style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6 " style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>Junior</p>
                     <p>Css</p>
@@ -146,8 +146,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/loop-studios.svg" alt="">
                     </div>
@@ -170,7 +170,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Fullstack</p>
                     <p>Midweight</p>
                     <p>Javascript</p>
@@ -181,8 +181,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/faceit.svg" alt="">
                     </div>
@@ -205,7 +205,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Backend</p>
                     <p>Junior</p>
                     <p>Ruby</p>
@@ -215,8 +215,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/shortly.svg" alt="">
                     </div>
@@ -239,7 +239,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>junior</p>
                     <p>HTML</p>
@@ -250,8 +250,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/insure.svg" alt="">
                     </div>
@@ -274,7 +274,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>junior</p>
                     <p>vue</p>
@@ -285,8 +285,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/eyecam-co.svg" alt="">
                     </div>
@@ -309,7 +309,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Fullstack</p>
                     <p>Midweight</p>
                     <p>Javascript</p>
@@ -320,8 +320,8 @@
         </div>
         <!--  -->
         <div class="p-4  rounded shadow-lg w-4/5">
-            <div class="flex justify-between items-center ">
-                <div class="flex gap-4">
+            <div class="flex justify-between items-center flex-col sm:flex-row">
+                <div class="flex  flex-col sm:flex-row  w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
                         <img src="../assets/the-air-filter-company.svg" alt="">
                     </div>
@@ -344,7 +344,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>Junior</p>
                     <p>React</p>
