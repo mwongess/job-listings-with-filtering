@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile and Hot-Reload
 
 ```sh
 npm run dev

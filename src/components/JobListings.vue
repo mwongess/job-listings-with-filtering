@@ -2,7 +2,7 @@
 <template>
     <div class="flex flex-col items-center gap-6">
         <!--  -->
-        <div class="p-4  rounded shadow-lg w-4/5  ft">
+        <div class="p-4  rounded shadow-lg w-4/5   ft">
             <div class="flex justify-between items-center flex-col sm:flex-row gap-4">
                 <div class="flex flex-col sm:flex-row w-full md:w-auto gap-4">
                     <div class="w-16 h-16 rounded-full bg-green-600 m">
@@ -29,7 +29,7 @@
                     </div>
 
                 </div>
-                <div class="flex justify-between  flex-wrap gap-6" style="color: hsl(180, 29%, 50%);">
+                <div class="flex justify-between  flex-wrap gap-6 " style="color: hsl(180, 29%, 50%);">
                     <p>Frontend</p>
                     <p>Senior</p>
                     <p>HTML</p>
